@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   app: {
     // pageTransition: { name: "layout", mode: "out-in" },
     head: {
+      title: 'BAC Colognes - Crafting fragrances that create lasting memories.',
       link: [
         {
           rel: "stylesheet",

@@ -54,6 +54,7 @@
           <p>This is a unisex perfume that is handcrafted using essential oils. It has a strong unisex scent that is overpowering and works with your pheromones and body heat to give off a truly unique scent.
             If you’re a lady and you love unisex scent, then this perfume is for you.
           </p>
+          <BuyModay />
         </div>
       </section>
       <section class="bac-royal">
