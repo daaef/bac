@@ -28,7 +28,7 @@
             At BAC Colognes, artistry and fragrance unite to create a world of captivating scents. We are passionate about crafting exceptional perfumes that evoke emotions, memories, and experiences.
           </p>
           <p>
-            Our journey began in 2018, with a vision to transform the way people perceive and wear fragrances.
+            Our journey began in 2017, with a vision to transform the way people perceive and wear fragrances.
           </p>
           <p>
             With a commitment to quality and innovation, we blend the finest ingredients from around the world to create unique and luxurious scents.
